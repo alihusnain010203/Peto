@@ -9,10 +9,7 @@ export default function _layout() {
    <Tabs
    screenOptions={{
     tabBarActiveTintColor:Colors.PRIMARY,
-    tabBarActiveBackgroundColor:Colors.WHITE,
-    tabBarInactiveTintColor:Colors.GRAY,
-    tabBarInactiveBackgroundColor:Colors.WHITE,
-    tabBarShowLabel:false,
+    
    }}
    >
     <Tabs.Screen name="home" options={{
