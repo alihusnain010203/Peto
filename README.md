@@ -1,4 +1,4 @@
-# Welcome to your Expo Native Peto adoption app 👋
+# Welcome to your React Native Peto adoption app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
